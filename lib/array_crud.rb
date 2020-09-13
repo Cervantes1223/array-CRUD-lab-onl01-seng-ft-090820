@@ -3,7 +3,8 @@ def create_an_empty_array
 end
 
 def create_an_array
-  [b
+  create_an_array = [bob, mo, lo, sh]
+  
   
 end
 
